@@ -75,3 +75,4 @@ Resources:
         - !Ref MySecurityGroup
       KeyName: AWS-study  #キーペア名
 
+# Update note
