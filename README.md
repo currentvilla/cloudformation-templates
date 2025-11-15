@@ -1,1 +1,2 @@
-sample
+# AWS-cloudformation-templates
+Cloudformationに用いたテンプレート置き場
